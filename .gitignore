@@ -30,5 +30,7 @@ replay_pid*
 /*/gradlew
 /*/gradlew.*
 *.txt
-application.properties
+
+/*/src/main/resources/application.properties
+/*/src/main/resources/teste
 
